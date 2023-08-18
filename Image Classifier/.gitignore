@@ -1,0 +1,8 @@
+/venv
+/__pycache__
+test.txt
+test_x.txt
+text_y.txt
+train.txt
+train_x.txt
+train_y.txt
